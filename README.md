@@ -41,4 +41,6 @@ Top ending locations.
 ## SUMMARY:
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Overall, the data suggests that men use bike sharing the most with the highest usage on weekdays (with a peak on Thursdays. The peak usage times are in the morning(7-8AM) and early evening (5PM) indicating that the bikes are being used to get to and from work. Bikes are checked out and checked in the most in Manhattan. 
+
+Additional visualizations that would benefit the analysis would be, data on bikesharing in colder months as well as data on the on theft/loss of bikes.
